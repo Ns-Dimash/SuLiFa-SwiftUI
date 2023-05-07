@@ -16,7 +16,7 @@
 
 /* Begin PBXFileReference section */
 		015193BE29E90FF500D79FF3 /* MultiPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiPlayer.swift; sourceTree = "<group>"; };
-		019338E229E7395500D52CA6 /* RockPaperSc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RockPaperSc.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		019338E229E7395500D52CA6 /* SuLiFa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SuLiFa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		019338E529E7395500D52CA6 /* RockPaperScApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RockPaperScApp.swift; sourceTree = "<group>"; };
 		019338E729E7395500D52CA6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		019338E929E7395700D52CA6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -37,7 +37,7 @@
 		019338D929E7395500D52CA6 = {
 			isa = PBXGroup;
 			children = (
-				019338E429E7395500D52CA6 /* RockPaperSc */,
+				019338E429E7395500D52CA6 /* SuLiFa */,
 				019338E329E7395500D52CA6 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -45,12 +45,12 @@
 		019338E329E7395500D52CA6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				019338E229E7395500D52CA6 /* RockPaperSc.app */,
+				019338E229E7395500D52CA6 /* SuLiFa.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		019338E429E7395500D52CA6 /* RockPaperSc */ = {
+		019338E429E7395500D52CA6 /* SuLiFa */ = {
 			isa = PBXGroup;
 			children = (
 				019338E529E7395500D52CA6 /* RockPaperScApp.swift */,
@@ -59,7 +59,7 @@
 				019338EB29E7395700D52CA6 /* Preview Content */,
 				015193BE29E90FF500D79FF3 /* MultiPlayer.swift */,
 			);
-			path = RockPaperSc;
+			path = SuLiFa;
 			sourceTree = "<group>";
 		};
 		019338EB29E7395700D52CA6 /* Preview Content */ = {
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		019338E129E7395500D52CA6 /* RockPaperSc */ = {
+		019338E129E7395500D52CA6 /* SuLiFa */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 019338F029E7395700D52CA6 /* Build configuration list for PBXNativeTarget "RockPaperSc" */;
+			buildConfigurationList = 019338F029E7395700D52CA6 /* Build configuration list for PBXNativeTarget "SuLiFa" */;
 			buildPhases = (
 				019338DE29E7395500D52CA6 /* Sources */,
 				019338DF29E7395500D52CA6 /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = RockPaperSc;
+			name = SuLiFa;
 			productName = RockPaperSc;
-			productReference = 019338E229E7395500D52CA6 /* RockPaperSc.app */;
+			productReference = 019338E229E7395500D52CA6 /* SuLiFa.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 019338DD29E7395500D52CA6 /* Build configuration list for PBXProject "RockPaperSc" */;
+			buildConfigurationList = 019338DD29E7395500D52CA6 /* Build configuration list for PBXProject "SuLiFa" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				019338E129E7395500D52CA6 /* RockPaperSc */,
+				019338E129E7395500D52CA6 /* SuLiFa */,
 			);
 		};
 /* End PBXProject section */
@@ -270,7 +270,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"RockPaperSc/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SuLiFa/Preview Content\"";
 				DEVELOPMENT_TEAM = 9D422DH2LV;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -299,7 +299,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"RockPaperSc/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SuLiFa/Preview Content\"";
 				DEVELOPMENT_TEAM = 9D422DH2LV;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -324,7 +324,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		019338DD29E7395500D52CA6 /* Build configuration list for PBXProject "RockPaperSc" */ = {
+		019338DD29E7395500D52CA6 /* Build configuration list for PBXProject "SuLiFa" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				019338EE29E7395700D52CA6 /* Debug */,
@@ -333,7 +333,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		019338F029E7395700D52CA6 /* Build configuration list for PBXNativeTarget "RockPaperSc" */ = {
+		019338F029E7395700D52CA6 /* Build configuration list for PBXNativeTarget "SuLiFa" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				019338F129E7395700D52CA6 /* Debug */,
